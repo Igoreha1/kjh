@@ -15,6 +15,7 @@ namespace kjh
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }
